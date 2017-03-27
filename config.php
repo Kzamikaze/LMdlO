@@ -2,7 +2,7 @@
 # CMS Made Simple Configuration File
 # Documentation: /doc/CMSMS_config_reference.pdf
 #
-$config['dbms'] = 'mssql_odbc';
+$config['dbms'] = 'mssql';
 $config['db_hostname'] = 'sqllmdlo.database.windows.net';
 $config['db_username'] = 'Kzamikaze';
 $config['db_password'] = 'Julien2509';
